@@ -1,0 +1,47 @@
+
+[General]
+	#Should seeds appear in some chests?
+	seedsInChests = true
+
+["Wild Grass Drops"]
+	#Relative weight of ossidroot seeds in grass drops
+	#Range: 0 ~ 100
+	relWeightOssidSeeds = 5
+	#Relative weight of wheat seeds in grass drops
+	#Range: 0 ~ 100
+	relWeightWheatSeeds = 10
+	#Relative weight of ashenwheat seeds in grass drops
+	#Range: 0 ~ 100
+	relWeightAshSeeds = 8
+	#Relative weight of scintilla wheat seeds in grass drops
+	#Range: 0 ~ 100
+	relWeightScintillaSeeds = 3
+	#Should ashenwheat seeds drop from breaking grass?
+	DropAshSeeds = true
+	#Relative weight of thundergrass seeds in grass drops
+	#Range: 0 ~ 100
+	relWeightThunderSeeds = 4
+	#Should thundergrass seeds drop from breaking grass?
+	DropThunderSeeds = true
+	#Should scintilla wheat seeds drop from breaking grass?
+	DropScintillaSeeds = false
+	#Should ossidroot seeds drop from breaking grass?
+	DropOssidSeeds = true
+
+["Crop Growth Rates"]
+	#Ashenwheat growth rate (wheat = 1.0)
+	#Range: 0.01 ~ 100.0
+	growthRateAshenwheat = 0.96
+	#Thundergrass growth rate (wheat = 1.0)
+	#Range: 0.01 ~ 100.0
+	growthRateThunderGrass = 0.5
+	#Thundergrass neighbor tolerance (wheat = 1.0), aka f_min
+	#Range: 0.1 ~ 6.0
+	neighborFactorThunderGrass = 5.0
+	#Ossid root growth rate (wheat = 1.0)
+	#Range: 0.01 ~ 100.0
+	growthRateOssidRoot = 0.89
+	#Scintilla growth rate (wheat = 1.0)
+	#Range: 0.01 ~ 100.0
+	growthRateScintillaWheat = 0.79
+

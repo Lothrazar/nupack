@@ -1,0 +1,13 @@
+
+## These only apply to spawns that are both Natural and Hostile.  Natrual spawns means from regular world gen, does not include spawn eggs, spawner blocks, etc.
+[peacefulheights]
+	## If true this will log many events as they happen and what they cancel
+	logActivity = false
+	## Only apply mob spawning restrictions to these dimensions
+	dimensions = ["minecraft:overworld"]
+
+	[peacefulheights.hostile]
+		## Hostile mobs > this value will be denied
+		#Range: 0 ~ 256
+		maxHeight = 63
+

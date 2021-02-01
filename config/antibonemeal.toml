@@ -1,0 +1,8 @@
+
+#General settings
+[antibonemeal]
+	#Allows bonemeal to work during midnight, but only on grass (to grow flowers, maybe a rare firework).  If false it just never works on grass just like other blocks. 
+	grassMidnight = true
+	#Bonemeal Tooltip
+	itemTooltip = true
+

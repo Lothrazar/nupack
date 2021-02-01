@@ -1,0 +1,16 @@
+
+["Particle Effects"]
+	#Flame and smoke particles on Ashenwheat bales?
+	MakeAshenBalesFlame = true
+	#Gloom particles on Ossidroot crop?
+	MakeOssidCropGloom = true
+	#Scintillating particles on Scintillawheat crop?
+	MakeScintillawheatScintillate = true
+	#Gloom particles on Ossidroots, Carved Ossidroots, and Ossidroot Lanterns?
+	MakeOssidLanternGloom = true
+	#Scintillating particles on Scintillawheat bales?
+	MakeScintillaBalesScintillate = true
+	MakeThunderGrassSmoke = true
+	#Flame particles on Ashenwheat crop?
+	MakeAshenwheatFlame = true
+

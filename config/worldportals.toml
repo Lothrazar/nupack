@@ -1,0 +1,18 @@
+
+#General settings
+[worldportals]
+	#Minimum Y level
+	#Range: 0 ~ 256
+	lowestY = 50
+	#Maximum Y level
+	#Range: 0 ~ 256
+	highestY = 100
+	#Only allowed to make nether portals in the overworld
+	overworldOnly = false
+	#Grid size
+	#Range: 50 ~ 1000000
+	grid = 500
+	#Grid buffer
+	#Range: 2 ~ 1000
+	buffer = 8
+
