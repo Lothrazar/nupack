@@ -12,6 +12,9 @@ natives/
 logs/
 
 *.jar
+*.disabled
+servers.dat
+servers.dat_old
 
 options.txt
 optionsof.txt
