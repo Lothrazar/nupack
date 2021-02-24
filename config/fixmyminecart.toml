@@ -1,0 +1,6 @@
+
+#General settings
+[fixmyminecart]
+	#Testing mixin spam log if holding filled map
+	serverTest = true
+
