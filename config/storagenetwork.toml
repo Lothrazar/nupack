@@ -17,6 +17,10 @@
 	# If this is true, reload network when a chunk unloads, this keeps your network always up to date.  It has been reported that this cause lag and chunk load issues on servers, so disable if you have any problems. 
 	reloadNetworkWhenUnloadChunk = false
 	#
+	# Maximum range of the Storage Remote and Crafting Remote.   -1 means unlimited.
+	#Range: -1 ~ 8388607
+	remoteMaxRange = -1
+	#
 	# How often to auto-refresh a network (one second is 20 ticks)
 	#Range: 2 ~ 4096
 	autoRefreshTicks = 20
